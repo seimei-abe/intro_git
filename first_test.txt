@@ -2,3 +2,4 @@ git練習用
 更に学びます。
  git add
  git commit
+ git rm
